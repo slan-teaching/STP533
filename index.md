@@ -52,7 +52,7 @@ This course focuses on statistics analysis with multivariate models and methods.
 
 ### Homework Assignments
 
-[Homework 1](https://github.com/slan-teaching/STP533/blob/master/Homework/STP533_hw1.pdf);    [Rmd](https://github.com/slan-teaching/STP533/blob/master/Homework/STP533_hw1.Rmd)
+[Homework 1](https://github.com/slan-teaching/STP533/blob/master/Homework/STP533_hw1.pdf);    [Sample Rmd](https://github.com/slan-teaching/STP533/blob/master/Homework/Sample.Rmd)    [Sample pdf](https://github.com/slan-teaching/STP533/blob/master/Homework/Sample.pdf)
 
 [Homework 2](https://github.com/slan-teaching/STP533/blob/master/Homework/STP533_hw2.pdf);    
 
