@@ -24,31 +24,23 @@ This course focuses on statistics analysis with multivariate models and methods.
 
 [lecture 3](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture3.pdf)
 
-<!--[demo 1 (lect 2 & 3)](https://github.com/slan-teaching/STP533/blob/master/demos/STP533_krigCAR.html)-->
-
 [lecture 4](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture4.pdf)
 
 [lecture 5](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture5.pdf)
 
-<!--[demo 2 (lect 4 & 5)](https://github.com/slan-teaching/STP533/blob/master/demos/STP533_hierachical.html)-->
-
 [lecture 6](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture6.pdf)
-
-<!--[demo 3 (lect 6)](https://github.com/slan-teaching/STP533/blob/master/demos/STP533_multivariate.html)-->
 
 [lecture 7](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture7.pdf)
 
 [lecture 8](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture8.pdf)
 
-<!--[demo 4 (lect 7 & 8)](https://github.com/slan-teaching/STP533/blob/master/demos/STP533_timeseries.html)-->
-
 [lecture 9](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture9.pdf)
-
-<!--[demo 5 (lect 9)](https://github.com/slan-teaching/STP533/blob/master/demos/STP533_statespace.html)-->
 
 [lecture 10](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture10.pdf)
 
-<!--[demo 6 (lect 10)](https://github.com/slan-teaching/STP533/blob/master/demos/STP533_STmodelbasis.html)-->
+### R code demos
+
+[R codes](https://github.com/slan-teaching/STP533/blob/master/demos)
 
 ### Homework Assignments
 
