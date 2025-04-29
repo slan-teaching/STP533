@@ -40,6 +40,8 @@ This course focuses on statistics analysis with multivariate models and methods.
 
 [lecture 11](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP598mldl_lect4clas.pdf)
 
+[lecture 12](https://github.com/slan-teaching/STP533/blob/master/lecture_notes/STP533_lecture12.pptx)
+
 ### R code demos
 
 [R codes](https://github.com/slan-teaching/STP533/blob/master/demos)
